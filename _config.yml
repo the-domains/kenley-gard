@@ -1,6 +1,6 @@
 name: kenley Gard
 favicon: null
-layout_spectrum: 0.5137319478671998
+layout_spectrum: 0.34109
 typography_spectrum: 0.31648
 title: Folio
 cta:
@@ -23,7 +23,7 @@ color:
     - '#51504b'
     - '#af9274'
   brandStrength: 0.6725485445931554
-  lightness: 0.10750051797367632
+  lightness: 0.6875
   saturation: 0.37701883842237294
   rhythmicContrast: 0.5948881804943085
 purpose: []
